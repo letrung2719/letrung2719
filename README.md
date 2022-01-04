@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, My name is Trung. I am developer!</h1>
+<h1 align="center">👋 Hi there, My name is Trung. I am a developer!</h1>
 
 <p align="center">
 <img src="https://pratikjagrut.dev/img/git/github.png"/>
